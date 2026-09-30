@@ -16,3 +16,14 @@ This project demonstrates core operating systems concepts through the implementa
 - Single pipeline support with `|`
 - Error handling for invalid commands, directories, files, and process creation
 - Linux process and system-call analysis using `strace`, `ps`, and `/proc`
+
+## Academic Context and Attribution
+
+This project was developed as part of *COP 4610 — Operating Systems Principles* at Florida International University. The course provided starter scaffolding, including parts of the shell loop, input-parsing logic, build configuration, and assignment structure. My implementation focused on:
+
+- External command execution
+- Built-in shell commands
+- Input and output redirection
+- Pipe creation and process communication
+- Error handling
+- Process and system-call analysis
