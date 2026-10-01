@@ -195,7 +195,6 @@ Planned examples include:
 - Built-in commands
 - Input/output redirection
 - Pipeline execution
-- System-call tracing with `strace`
 - Process and file-descriptor inspection
 
 ## Limitations
