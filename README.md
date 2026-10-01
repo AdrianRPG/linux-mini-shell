@@ -191,12 +191,18 @@ Screenshots demonstrating the shell's functionality and Linux process analysis w
 
 Planned examples include:
 
-- External command execution
-- Built-in commands
-- Input/output redirection
-- Pipeline execution
-- Process and file-descriptor inspection
+- External Command Execution
+![External command execution](screenshots/external-command-execution.png)
 
+- Built-in commands
+![Built-in commands](screenshots/builtin-commands.png)
+
+- Input/output redirection
+![I/O redirection](screenshots/io-redirection.png)
+
+- Pipeline execution
+![Pipeline execution](screenshots/pipeline-execution.png)
+  
 ## Limitations
 
 This project intentionally implements a small subset of full Unix shell functionality.
